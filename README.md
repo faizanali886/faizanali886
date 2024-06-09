@@ -4,7 +4,7 @@ My name is Faizan Ali, and I am a professional DevOps Engineer with more than fi
 
 
 - 🔭 I’m currently working on Microsoft Azure Cloud.
-- 🌱 I’m currently learning advanced DebOps techniques.
+- 🌱 I’m currently learning advanced DevOps techniques.
 - 👯 I’m looking to collaborate on AWS.
 - 🤔 I’m looking for help with Google Cloud Platform.
 - 💬 Ask me about CICD pipelines.
